@@ -1,6 +1,6 @@
 
 # Tamilanda
-Tamilanda is a custom interpreted language with a free, natural language-like syntax with tamil keywords
+Tamilanda is a  computer language with a free, natural language-like syntax with tamil keywords
 
 # Currently Available functionalities in Tamilanda
 
