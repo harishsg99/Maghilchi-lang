@@ -9,6 +9,7 @@ In Tamil Nadu(India), There are millions of students who studies in tamil medium
 1. Simple and natural language based Programming language
 2. Hassle Free Installation and configuration so that anyone can install easily and use!
 3. Need to add various functionality such as GUI Creation, networking support etc which will encourage kids to create games etc
+4. Memory Safe programming language for security of applications.
 
 ## How to Access Source Code of Maghilchi.
 
