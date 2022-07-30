@@ -3,7 +3,7 @@
  Maghilchi is a interpreted language with a natural language-like syntax with tamil words.
 
 # Why Maghilchi?
-In Tamil Nadu(India), There are millions of students who studies in tamil medium schools or schools who use tamil as medium of teaching subjects. Many wants to learn coding since most of the proggraming language is English they see that as barrier. So I decided to make proggraming language that use tamil in syntax instead of English which will eventually breaks that language barrier.
+In Tamil Nadu(India), There are millions of students who studies in tamil medium schools or schools who use tamil as medium of teaching subjects. Many of them wants to learn coding since most of the proggraming language is in English they see that as barrier. So I decided to make proggraming language that use tamil in syntax instead of English which will eventually breaks that language barrier. This will help many students from tamil mediums to become a good programmer in the future, Even some of them might use proggraming skills to create product to solve real life problems.
 
 # Goals for Maghilchi:
 1. Simple and natural language based Programming language
