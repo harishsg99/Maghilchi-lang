@@ -11,6 +11,9 @@ In Tamil Nadu(India), There are millions of students who studies in tamil medium
 3. Need to add various functionality such as GUI Creation, networking support etc which will encourage kids to create games etc
 4. Memory Safe programming language for security of applications.
 
+# Future Plans for Maghilchi
+1. Create a package manager to install packages and remove packages for maghilchi
+
 ## How to Access Source Code of Maghilchi.
 
 Until first version of stable release source code of Maghilchi will be closed source as I need to do lots of code cleanup as code is clumsy as of now.
@@ -36,8 +39,6 @@ Users can also Use Maghilchi IDE instead for commandline
 
 
 ## Installation
-
-Install my-project with pip3
 
 ```bash
 pip3 install maghilchi
