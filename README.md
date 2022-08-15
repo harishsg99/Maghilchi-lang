@@ -41,7 +41,7 @@ Users can also Use Maghilchi IDE instead for commandline
 ## Installation
 
 ```bash
-pip3 install maghilchi
+pip3 install maghilchiplusplus
 
 ```
 Will add standalone installation binary in stable release.
